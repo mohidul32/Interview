@@ -14,7 +14,6 @@
   - [C++ Access Specifiers](#c-access-specifiers)
 - [Encapsulation](#encapsulation)
   - [Encapsulation Advantage?](#encapsulation-advantage)
-  - [Encapsulation Advantage?](#encapsulation-advantage-1)
 - [C++ Inheritance](#c-inheritance)
   - [types of Inheritance in c++](#types-of-inheritance-in-c)
   - [Single inheritance](#single-inheritance)
@@ -415,14 +414,6 @@ int main(){
 
 - It is considered good practice to declare your class attributes as private (as often as you can). Encapsulation ensures better control of your data, because you (or others) can change one part of the code without affecting other parts.
 - Increased security of data.
-
-<!-- TOC --><a name="encapsulation-advantage-1"></a>
-## Encapsulation Advantage?
-
-- Code reusability.
-- Application development time is less.
-- Application take less memory.
-- Application executiontime is less.
 
 <!-- TOC --><a name="c-inheritance"></a>
 # C++ Inheritance
