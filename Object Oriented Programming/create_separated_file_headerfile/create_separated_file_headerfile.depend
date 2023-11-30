@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700802010 source:g:\oop\create_separated_file_headerfile\main.cpp
+	<iostream>
+	"external_class.h"
+
+1700801726 source:g:\oop\create_separated_file_headerfile\src\external_class.cpp
+	"external_class.h"
+	<iostream>
+
+1700802010 g:\oop\create_separated_file_headerfile\include\external_class.h
+
